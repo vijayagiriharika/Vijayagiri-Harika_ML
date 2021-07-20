@@ -37,4 +37,13 @@ SVM is one of the most powerful machine learning algorithm available today. A li
 ![SVM](https://miro.medium.com/max/875/0*uwRVvFVLmKi3T9pS.png)<br/>
 Making a hyperplane to fit this data is very difficult, specially it it's high dimensional. SVM does this task perfectly. SVR tries to have as many support vectors as possible within the margin, thus it keeps the error within the threshold.
 A major difference between Linear regression and SVR lies on the fact that Linear regression tends to minimize the error and SVR tends to keep it within a threshold.
-For further information visit [Sklearn SVR](https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVR.html)
+For further information visit [Sklearn SVR](https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVR.html)<br/> <br/>
+
+# Vijayagiri Harika
+[<img align="left" alt="email" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/mail-dot-ru.svg"/>](mailto:vijayagiriharika7386@gmail.com) 
+
+[<img align="left" alt="linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>](https://www.linkedin.com/in/vijayagiri-harika-1425a8201) 
+
+[<img align="left" alt="GitHub" width="22px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://github.com/vijayagiriharika)
+
+<br/>
